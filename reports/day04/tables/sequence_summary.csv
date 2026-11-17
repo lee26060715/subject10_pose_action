@@ -1,0 +1,2 @@
+﻿action_id,action_label,rows,pose_ok_rows,pose_ok_ratio,feature_ok_rows,feature_ok_ratio,mean_keypoint_conf,mean_low_keypoint_count,mean_adjacent_feature_change,last_time_sec
+A001,bend_return,30,30,1.0,30,1.0,0.9663,0.1,0.198978,1.16
